@@ -1,6 +1,6 @@
 FROM debian
 
-MAINTAINER vzamyati <vzamyati@student.unit.ua>
+MAINTAINER alikhtor <alikhtor@student.unit.ua>
 
 ENV TS3SERVER_LICENSE=accept
 

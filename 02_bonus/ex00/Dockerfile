@@ -1,6 +1,6 @@
 FROM debian
 
-MAINTAINER vzamyati <vzamyati@student.unit.ua>
+MAINTAINER alikhtor <alikhtor@student.unit.ua>
 
 RUN apt-get update && apt-get install -y cowsay fortune lolcat
 

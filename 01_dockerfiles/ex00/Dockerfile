@@ -1,6 +1,6 @@
 FROM alpine
 
-MAINTAINER vzamyati <vzamyati@student.unit.ua>
+MAINTAINER alikhtor <alikhtor@student.unit.ua>
 
 RUN apk update && apk upgrade && apk add vim
 
